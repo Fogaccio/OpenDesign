@@ -13,16 +13,22 @@ WebAssembly's branding Identity is a package of visual elements that includes th
 
 **LOGOTYPE** (.svg, .eps, .png)
 
-The logo in different file extensions, formats and sizes for digital usage.
+- The logo in different file extensions, formats and sizes for digital usage.
 
 **FAVICON** (.ico, .png, .svg) 
 
-A version of the shortcut icon to be used on website pages.
+- A version of the shortcut icon to be used on website pages.
 
 **QUICK GUIDELINE** 
 
-Brings information about the WebAssembly’s branding identity elements like color palette and fonts, and also examples of its correct application.
+- Brings information about the WebAssembly’s branding identity elements like color palette and fonts, and also examples of its correct application.
 
 **CREATIVE COMMONS ASSETS**
 
-Logo and assets also available to be used together with WebAssembly logo. All files here are in .svg format. Refer to the guideline on how to use it.
+- Logo and assets also available to be used together with WebAssembly logo. All files here are in .svg format. Refer to the guideline on how to use it.
+
+**LICENSE**
+
+![Creative Commons License By 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+WebAssembly Logo is licensed under a [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/legalcode)
